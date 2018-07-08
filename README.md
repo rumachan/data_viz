@@ -1,2 +1,2 @@
 # data_viz
-data visualisation
+Examples of how we can better visualise GeoNet volcano data
