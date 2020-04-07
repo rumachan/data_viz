@@ -1,0 +1,21 @@
+Lat,Lon,Title,DHB,Cases today,Cases yesterday,Dir
+-46.4132,168.3538,null,Southern,177,131,up
+-36.3987,174.4504,null,Waitemata,157,117,up
+-38.333,175.1635,null,Waikato,147,125,up
+-36.8485,174.7633,null,Auckland,147,120,up
+-43.5321,172.6362,null,Canterbury,92,59,up
+-41.2865,174.7762,null,Capital and Coast,81,66,up
+-37.2021,174.9035,null,Counties Manukau,81,62,up
+-41.2706,173.284,null,Nelson Marlborough,40,30,up
+-39.6396,176.8392,null,Hawke's Bay,33,24,up
+-37.6878,176.1651,null,Bay of Plenty,32,26,up
+-40.3523,175.6082,null,MidCentral,26,20,up
+-41.0911,175.0984,null,Hutt Valley,19,17,up
+-35.7251,174.3237,null,Northland,17,13,up
+-39.0556,174.0752,null,Taranaki,14,14,no change
+-38.6857,176.0702,null,Lakes,12,11,up
+-44.0047,170.4771,null,South Canterbury,10,10,no change
+-40.9511,175.6574,null,Wairarapa,8,8,no change
+-39.9301,175.0479,null,Whanganui,8,7,up
+-42.4504,171.2108,null,West Coast,4,3,up
+-38.6623,178.0176,null,Tairawhiti,1,1,no change
